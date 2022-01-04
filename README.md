@@ -29,7 +29,7 @@ whom to contact, whether an emergency message should be sent through Slack or em
 
 * Individual Branches:
 There is one branch for each team member as follows:
-![D2b]https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/Pictures/D2b.PNG
+![D2b](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/Pictures/D2b.PNG)
 
 * Each team member has at least four commits for the duration of the first segment:
 
