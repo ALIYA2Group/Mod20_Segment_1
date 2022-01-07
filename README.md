@@ -22,10 +22,8 @@ Minimum of 1,000 data points,using either Kaggle, data.world, government sites, 
 
 * Description of the communication protocols:
 
-We created a message group for direct messages with team members in Slack. 
-Establish a daily meetup time for everyone: Monday & Wednesday after class.  
-Communication protocol in case of an emergency: Slack group message
-
+We created a message group for direct messages with team members in Slack. Established a daily meetup time for everyone and a communication protocol in case of an emergency as follows: 
+![D2a](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/Pictures/D2a.PNG)
 
 * Individual Branches:
 There is one branch for each team member as follows:
