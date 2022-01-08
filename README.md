@@ -9,6 +9,8 @@ First Segment: Sketch It Out: Decide on your overall project, select your quest
 
 * Selected topic:
 
+ Predicted when polar ice will be gone in the Artic and Antarctic's
+
 * Reason we selected the topic:
 
 * Description of the source of data:
