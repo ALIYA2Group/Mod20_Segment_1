@@ -22,6 +22,8 @@ Sea ice, which is comprised of frozen ocean water, is found only in the Arctic a
 Minimum of 1,000 data points,using either Kaggle, data.world, government sites, Web scraping. 
 
 * Questions we hope to answer with the data:
+  * Predicting Instinction of Animals due to Climate Change
+  * Predicting Animal Extinction
 
 
 # Github
