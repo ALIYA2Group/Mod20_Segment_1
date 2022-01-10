@@ -1,4 +1,4 @@
-# Mod20_Segment_1
+#  Mod20_Segment_1
 By the end of this module segment, we will have created the foundation for the final project. By defining roles between team members and establishing a communication structure. Additionally, Decide on a topic for the project—think of a question that can be answered using data. Create a repository for the project and invite the other team members to join. Source a dataset that will suit your needs (you can even use multiple datasets if applicable). Begin to clean, organize, and perform exploratory data analysis on your datasets so that they're ready for analysis. Include mockups of a machine learning model and a database.
 
 # Purpose 
@@ -13,14 +13,19 @@ First Segment: Sketch It Out: Decide on your overall project, select your quest
 
 * Reason we selected the topic:
 
+
 Sea ice, which is comprised of frozen ocean water, is found only in the Arctic and Antarctic. The amount of sea ice at each pole changes throughout the year, growing in the winter months and shrinking during the summer months. This visualization on Google Earth shows the minimum sea ice measured for each year from 1979 to 2018. And could expand this to 2022. For the Antarctic, this measurement is taken in March after summer in the Southern Hemisphere. Sea ice has an impact on the global climate from helping to regulate global temperature to affecting ocean currents and providing a habitat for wildlife. We want to explore the catastrophes and aftermath that may occur after that date, and provide useful information related to the expected extinction of species to help navagate hard times in the future if we don't do something now.
 
+
 * Description of the source of data:
+ 1. National Snow and Ice Data Center. NSIDC data on Google Earth. Digital media. http://nsidc.org/data/google_earth. Accessed March 1, 2019.
+ 2. wildfinder Database  https://www.worldwildlife.org/publications/wildfinder-database
 
 1. National Snow and Ice Data Center. NSIDC data on Google Earth. Digital media. http://nsidc.org/data/google_earth. Accessed March 1, 2019.
 2. wildfinder Database https://www.worldwildlife.org/publications/wildfinder-database
 
 * Questions we hope to answer with the data:
+
 1. Predicting when the polar ice will be gone in the Artic and Antarctic's
 2. Predicting Instinction of which animals due to polar ice melt
 
@@ -29,7 +34,7 @@ Sea ice, which is comprised of frozen ocean water, is found only in the Arctic a
 * Description of the communication protocols:
 
 We created a message group for direct messages with team members in Slack. Established a daily meetup time for everyone and a communication protocol in case of an emergency as follows: 
-![D2a](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/Pictures/D2a.PNG)
+![D2a](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/Pictures/D1a.PNG)
 
 * Individual Branches:
 There is one branch for each team member as follows:
