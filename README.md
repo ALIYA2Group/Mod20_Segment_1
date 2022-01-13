@@ -83,16 +83,16 @@ A provisional machine learning model that stands in for the final machine learni
 * Outputs label for input data
 
 The model has been designed to:
-• pre-process the data
-• create OneHotEncoder instance
-• split, train and test the data
-• create StandardScaler instances
+* pre-process the data
+* create OneHotEncoder instance
+* split, train and test the data
+* create StandardScaler instances
 
 We will be using the following libraries:
-• Keras, including activation functions, layers, objectives and optimizers for the deep learning model
-• Matplotlib – including pyplot and scatterplots to plot accuracies etc
-• Scikit-Learn – to pre-process the data, regression and build the algorithm.
-• TensorFlow – to develop the deep learning model
+* Keras, including activation functions, layers, objectives and optimizers for the deep learning model
+* Matplotlib – including pyplot and scatterplots to plot accuracies etc
+* Scikit-Learn – to pre-process the data, regression and build the algorithm.
+* TensorFlow – to develop the deep learning model
 
 # Dashboard
 ex. In addition to using a Flask template, we will also integrate D3.js for a fully functioning and interactive dashboard. It will be hosted on ___.
