@@ -50,10 +50,10 @@ We will present a provisional machine learning model that stands in for the fina
 * Outputs label for input data
 
 Questions
-•	Which model did you choose and why?
-•	How are you training your model?
-•	What is the model's accuracy?
-•	How does this model work?
+* Which model did you choose and why?
+* How are you training your model?
+* What is the model's accuracy?
+* How does this model work?
 
 
 # Database 
