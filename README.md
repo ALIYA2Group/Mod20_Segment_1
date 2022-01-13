@@ -94,6 +94,12 @@ We will be using the following libraries:
 * Scikit-Learn – to pre-process the data, regression and build the algorithm.
 * TensorFlow – to develop the deep learning model
 
+![image](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/Mock%20ML%20Model/images/1.PNG)
+
+![image](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/Mock%20ML%20Model/images/2.PNG)
+
+![image](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/Mock%20ML%20Model/images/3.PNG)
+
 # Dashboard
 ex. In addition to using a Flask template, we will also integrate D3.js for a fully functioning and interactive dashboard. It will be hosted on ___.
 
