@@ -50,7 +50,7 @@ We want to explore the features of data within an
 
 ## Description of the data exploration phase of the project 
 
-![Daa](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/Pictures/Daa)
+![Daa](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/Pictures/Daa.PNG)
 
 ![Db](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/Pictures/Db.PNG)
 
