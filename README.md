@@ -115,7 +115,7 @@ Present a provisional database that stands in for the final database and accompl
 
 # Technologies Used
 
-•	Which tools are the best fit for your project? 
+•	Which tools are the best fit for your project?  
 Jupyter Notebook, VScode IDE ,and Pandas to clean and drop fields.  
 Javascript, HTML, CSS for building the webpage.  
 
