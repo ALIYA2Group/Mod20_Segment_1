@@ -5,23 +5,33 @@ By the end of this module segment, we will have created the foundation for the f
 
 First Segment: Sketch It Out: Decide on your overall project, select your question, and build a simple model. You'll connect the model to a fabricated database, using comma-separated values (CSV) or JavaScript Object Notation (JSON) files, to prototype your idea.
 
+
 # Presentation 
-1. [Antarctic Sea Ice] (https://earth.app.goo.gl/mYp7Ao)
+
+
+[D11a](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/Pictures/D11a.PNG)
+
+1. Google Earth
+[Artic] - (https://earth.app.goo.gl/mYp7Ao)
+[Antarctica] -(https://earth.app.goo.gl/1NveLo)
 
 ## Selected topic:
 
- Predicted when polar ice will be gone in the Artic and Antarctic's using other Scifeatures of Glomat 
+ Predicting when polar ice will be gone in the Artic and Antarctic's using other scienctic features of global climate change by creating a database, ETL and Machine Learning Model.
+
+[D11b](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/Pictures/D11a.PNG)
 
 ## Reason we selected the topic:
 
-
 Polar Sea ice, found only in the Arctic and Antarctic, which is comprised of frozen ocean water. The amount of sea ice at each pole changes throughout the year, growing in the winter months and shrinking during the summer months. This visualization on Google Earth shows the minimum sea ice measured for each year from 1979 to 2018. And could expand this to 2022. For the Antarctic, this measurement is taken in March after summer in the Southern Hemisphere. Sea ice has an impact on the global climate from helping to regulate global temperature to affecting ocean currents and providing a habitat for wildlife. We want to explore the catastrophes and aftermath that may occur after that date, and provide useful information related to the expected extinction of species to help navagate hard times in the future if we don't do something now.
 
+[D11b](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/Pictures/D11c.PNG)
 
 ## Description of the source of data:
 
-1.[National Snow and Ice Data Center. NSIDC data on Google Earth. Accessed March 1, 2019](http://nsidc.org/data/google_earth)
-2.
+
+1. [National Snow and Ice Data Center. NSIDC data on Google Earth. Accessed March 1, 2019](http://nsidc.org/data/google_earth)
+2. [Climate Data Store] (https://cds.climate.copernicus.eu/user/119111)
 
 
 
