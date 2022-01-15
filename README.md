@@ -35,9 +35,9 @@ Polar Sea ice, found only in the Arctic and Antarctic, which is comprised of fro
 
 
 1. [National Snow and Ice Data Center. NSIDC data on Google Earth. Accessed March 1, 2019](http://nsidc.org/data/google_earth)
-2. [Climate Data Store] (https://cds.climate.copernicus.eu/user/119111)
+2. [Climate Data Store](https://cds.climate.copernicus.eu/user/119111)
 3. [Climate Data Store](https://developers.arcgis.com/javascript/latest/showcase/arctic-antarctic-sea-ice/)
-4/ [Visualize Arctic and Antarctic Sea ](https://livingatlas.arcgis.com/sea-ice/)
+4. [Visualize Arctic and Antarctic Sea](https://livingatlas.arcgis.com/sea-ice/)
 
 
 ## Questions we hope to answer with the data:
