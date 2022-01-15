@@ -49,7 +49,8 @@ We want to explore the features of data within an
 2. Predicting when the polar ice will be gone in the Antarctic's
 
 ## Description of the data exploration phase of the project 
-![Daa](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/Pictures/Daa
+
+![Daa](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/Pictures/Daa)
 
 ![Db](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/Pictures/Db.PNG)
 
