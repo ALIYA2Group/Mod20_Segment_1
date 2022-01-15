@@ -116,12 +116,20 @@ Present a provisional database that stands in for the final database and accompl
 # Technologies Used
 
 •	Which tools are the best fit for your project? 
-
-Pandas to clean and drop fields.
+Jupyter Notebook, VScode IDE ,and Pandas to clean and drop fields.
+Javascript, HTML, CSS for building the webpage.
 
 •	What will be used for each section? 
+Data gathering: Jupyter Notebook, Pandas
+Cleaning and dropping fields: Jupyter Notebook, Pandas
+ML section: Jupyter Notebook, Pandas, R, VScode IDE, Keras, Matplotlib, Scikit-Learn, TensorFlow
+Data Storage: SQlite, PostgreSQL
+Interaction web page: VScode IDE, Javascript, HTML, CSS, Flask, D3.js library
+
 •	For example, data cleaning and data storage will be completed using two different tools. 
+
 •	How will the dashboard be built? 
+The daseboard will be built on the right side of the web paga, we can use the panel to play the visualized animation graph or show the data on a specific time.  
 
 ## Data Cleaning and Analysis
 ex. Pandas will be used to clean the data and perform an exploratory analysis. Further analysis will be completed using Python.
