@@ -62,6 +62,10 @@ We want to explore the features of data within an
 
 ## Result of analysis 
 
+1. Cleaning Data : We Created an ERD with species extintiction lvl and determinded after ERD that we will need an alternate Data Sources 
+ 
+![DNU_ERD](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/Pictures/DNU_ERD.PNG)
+
 ## Recommendation for future analysis 
 
 ## Anything the team would have done differently 
