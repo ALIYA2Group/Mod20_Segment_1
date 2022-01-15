@@ -19,7 +19,8 @@ Sea ice, which is comprised of frozen ocean water, is found only in the Arctic a
 
 ## Description of the source of data:
 
-
+1. [Antarctic Sea Ice] (https://developers.arcgis.com/javascript/latest/showcase/arctic-antarctic-sea-ice/)
+2. 
 
 
 
@@ -50,20 +51,28 @@ We will present a provisional machine learning model that stands in for the fina
 
 Questions
 •	Which model did you choose and why?
+
+
+
 •	How are you training your model?
 •	What is the model's accuracy?
 •	How does this model work?
 
-
 # Database 
 
 Present a provisional database that stands in for the final database and accomplishes the following:
-* Sample data that mimics the expected final database structure or schema
+* Sample data that mimics the expected final database structure or schema based on the following: 
+
+
+
 * Draft machine learning model is connected to the provisional database
 
 # Technologies Used
 
 •	Which tools are the best fit for your project? 
+
+Pandas to clean and drop fields.
+
 •	What will be used for each section? 
 •	For example, data cleaning and data storage will be completed using two different tools. 
 •	How will the dashboard be built? 
