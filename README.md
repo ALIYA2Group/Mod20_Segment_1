@@ -6,8 +6,8 @@ By the end of this module segment, we will have created the foundation for the f
 First Segment: Sketch It Out: Decide on your overall project, select your question, and build a simple model. You'll connect the model to a fabricated database, using comma-separated values (CSV) or JavaScript Object Notation (JSON) files, to prototype your idea.
 
 # Presentation 
-1. 
-[Antarctic Sea Ice] (https://earth.app.goo.gl/mYp7Ao)
+1. Google Maps [Polar Sea Ice] (https://earth.app.goo.gl/mYp7Ao)
+
 ## Selected topic:
 
  Predicted when polar ice will be gone in the Artic and Antarctic's
