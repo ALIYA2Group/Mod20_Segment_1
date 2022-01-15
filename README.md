@@ -21,7 +21,7 @@ To product the following:
 
 ## Selected topic:
 
- Predicting when polar ice will be gone in the Artic and Antarctic's using other scienctic features of global climate change by creating a database, ETL and Machine Learning Model.
+ Predicting when polar ice will be gone in the Artic and Antarctic using other scienctic features of global climate change by creating a database, ETL and Machine Learning Model.
 
 ![D11b](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/Pictures/D11b.PNG)
 
@@ -46,7 +46,7 @@ Polar Sea ice, found only in the Arctic and Antarctic, which is comprised of fro
 
 We want to explore the features of data within an 
 
-2. Predicting when the polar ice will be gone in the Antarctic's
+2. Predicting when the polar ice will be gone in the Antarctic
 
 ## Description of the data exploration phase of the project 
 
@@ -62,7 +62,7 @@ We want to explore the features of data within an
 
 ## Result of analysis 
 
-1. Cleaning Data : We Created an ERD with species extintiction lvl and determinded after ERD that we will need an alternate Data Sources 
+1. Cleaning Data : We Created an ERD with species extintiction level and determinded after ERD that we will need alternate Data Sources 
  
 ![DNU_ERD](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/Pictures/DNU_ERD.PNG)
 
