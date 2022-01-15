@@ -1,4 +1,4 @@
-#  Mod20_Segment_1
+﻿#  Mod20_Segment_1
 By the end of this module segment, we will have created the foundation for the final project. By defining roles between team members and establishing a communication structure. Additionally, Decide on a topic for the project—think of a question that can be answered using data. Create a repository for the project and invite the other team members to join. Source a dataset that will suit your needs (you can even use multiple datasets if applicable). Begin to clean, organize, and perform exploratory data analysis on your datasets so that they're ready for analysis. Include mockups of a machine learning model and a database.
 
 # Purpose 
@@ -29,6 +29,19 @@ Sea ice, which is comprised of frozen ocean water, is found only in the Arctic a
 1. Predicting when the polar ice will be gone in the Artic and Antarctic's
 2. Predicting Instinction of which animals due to polar ice melt
 
+## Description of the data exploration phase of the project 
+
+## Description of the analysis phase of the project 
+
+## Technologies, languages, tools, and algorithms used throughout the project 
+
+## Result of analysis 
+
+## Recommendation for future analysis 
+
+## Anything the team would have done differently 
+
+
 # Github
 
 * Description of the communication protocols:
@@ -49,14 +62,18 @@ We will present a provisional machine learning model that stands in for the fina
 * Takes in data from the provisional database
 * Outputs label for input data
 
-Questions
+# Questions
 •	Which model did you choose and why?
 
 
-
 •	How are you training your model?
+
+
 •	What is the model's accuracy?
+
+
 •	How does this model work?
+
 
 # Database 
 
@@ -84,7 +101,29 @@ ex. Pandas will be used to clean the data and perform an exploratory analysis. F
 ex. Mongo is the database we intend to use, and we will integrate Flask to display the data.
 
 ## Machine Learning
-ex. SciKitLearn is the ML library we'll be using to create a classifier. Our training and testing setup is ___. Extra ML verbiage here.
+
+A provisional machine learning model that stands in for the final machine learning model has been designed, with a starter code in place. It will be able to:
+
+* Takes in data from the provisional database
+* Outputs label for input data
+
+The model has been designed to:
+* pre-process the data
+* create OneHotEncoder instance
+* split, train and test the data
+* create StandardScaler instances
+
+We will be using the following libraries:
+* Keras, including activation functions, layers, objectives and optimizers for the deep learning model
+* Matplotlib – including pyplot and scatterplots to plot accuracies etc
+* Scikit-Learn – to pre-process the data, regression and build the algorithm.
+* TensorFlow – to develop the deep learning model
+
+![image](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/Mock%20ML%20Model/images/1.PNG)
+
+![image](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/Mock%20ML%20Model/images/2.PNG)
+
+![image](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/Mock%20ML%20Model/images/3.PNG)
 
 # Dashboard
 ex. In addition to using a Flask template, we will also integrate D3.js for a fully functioning and interactive dashboard. It will be hosted on ___.
