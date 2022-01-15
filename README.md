@@ -6,29 +6,32 @@ By the end of this module segment, we will have created the foundation for the f
 First Segment: Sketch It Out: Decide on your overall project, select your question, and build a simple model. You'll connect the model to a fabricated database, using comma-separated values (CSV) or JavaScript Object Notation (JSON) files, to prototype your idea.
 
 # Presentation 
-1. 
-[Antarctic Sea Ice] (https://earth.app.goo.gl/mYp7Ao)
+1. [Antarctic Sea Ice] (https://earth.app.goo.gl/mYp7Ao)
+
 ## Selected topic:
 
- Predicted when polar ice will be gone in the Artic and Antarctic's
+ Predicted when polar ice will be gone in the Artic and Antarctic's using other Scifeatures of Glomat 
 
 ## Reason we selected the topic:
 
 
-Sea ice, which is comprised of frozen ocean water, is found only in the Arctic and Antarctic. The amount of sea ice at each pole changes throughout the year, growing in the winter months and shrinking during the summer months. This visualization on Google Earth shows the minimum sea ice measured for each year from 1979 to 2018. And could expand this to 2022. For the Antarctic, this measurement is taken in March after summer in the Southern Hemisphere. Sea ice has an impact on the global climate from helping to regulate global temperature to affecting ocean currents and providing a habitat for wildlife. We want to explore the catastrophes and aftermath that may occur after that date, and provide useful information related to the expected extinction of species to help navagate hard times in the future if we don't do something now.
+Polar Sea ice, found only in the Arctic and Antarctic, which is comprised of frozen ocean water. The amount of sea ice at each pole changes throughout the year, growing in the winter months and shrinking during the summer months. This visualization on Google Earth shows the minimum sea ice measured for each year from 1979 to 2018. And could expand this to 2022. For the Antarctic, this measurement is taken in March after summer in the Southern Hemisphere. Sea ice has an impact on the global climate from helping to regulate global temperature to affecting ocean currents and providing a habitat for wildlife. We want to explore the catastrophes and aftermath that may occur after that date, and provide useful information related to the expected extinction of species to help navagate hard times in the future if we don't do something now.
 
 
 ## Description of the source of data:
 
-1.[Antarctic Sea Ice] (https://developers.arcgis.com/javascript/latest/showcase/arctic-antarctic-sea-ice/)
-2. 
+1.[National Snow and Ice Data Center. NSIDC data on Google Earth. Accessed March 1, 2019](http://nsidc.org/data/google_earth)
+2.
 
 
 
 ## Questions we hope to answer with the data:
 
-1. Predicting when the polar ice will be gone in the Artic and Antarctic's
-2. Predicting when the polar ice will be gone in the Artic and Antarctic's
+1. Predicting when the polar ice will be gone in the Artic.
+
+We want to explore the features of data within an 
+
+2. Predicting when the polar ice will be gone in the Antarctic's
 
 ## Description of the data exploration phase of the project 
 
