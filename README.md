@@ -52,11 +52,12 @@ With this data we can visually see the [Artic](https://earth.app.goo.gl/mYp7Ao) 
 
 ### Dataset 2
 
-1. Predicting when the polar ice will be gone in the Artic.
 
-We want to explore the features of data within an 
+### Other Dataset
 
-2. Predicting when the polar ice will be gone in the Antarctic
+We want to explore the features the dataset and continue other data.
+
+1. Predicting when the polar ice will be gone in the Artic & Antarctic
 
 ## Description of the data exploration phase of the project 
 
