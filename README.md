@@ -147,7 +147,7 @@ The model has been designed to:
 * create StandardScaler instances
 
 We will be using the following libraries:
-![D4a](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/Pictures/D4a.PNG)
+![D4a](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/Pictures/D4a.png)
 
 * Keras, including activation functions, layers, objectives and optimizers for the deep learning model
 * Matplotlib – including pyplot and scatterplots to plot accuracies etc
