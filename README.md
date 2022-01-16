@@ -31,16 +31,32 @@ Polar Sea ice, found only in the Arctic and Antarctic, which is comprised of fro
 
 ![D11c](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/Pictures/D11c.PNG)
 
-## Description of the source of data:
+## Description of the source of datasets:
 
-
+![D3aa](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/Pictures/D3aa.PNG)
 1. [National Snow and Ice Data Center. NSIDC data on Google Earth. Accessed March 1, 2019](http://nsidc.org/data/google_earth)
 2. [Climate Data Store](https://cds.climate.copernicus.eu/user/119111)
-3. [Climate Data Store](https://developers.arcgis.com/javascript/latest/showcase/arctic-antarctic-sea-ice/)
-4. [Visualize Arctic and Antarctic Sea](https://livingatlas.arcgis.com/sea-ice/)
+3. [Visualize Arctic and Antarctic Sea](https://livingatlas.arcgis.com/sea-ice/)
+4. [Arcgis](https://developers.arcgis.com/javascript/latest/showcase/arctic-antarctic-sea-ice/)
+
+## Questions we hope to answer with the:
+
+###Dataset 1
+
+![D3a](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/Pictures/D3a.PNG)
+
+With this data we have extracted from the backend source that displays the Google Earth Map Video of the Polar Ice extent from the 1978 to Today. We extrated the data to ![seaice_extent_daily_v3.0.csv](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/seaice_extent_daily_v3.0.csv)  Using API Keys to and EarthData to  
+
+Artic - https://earth.app.goo.gl/mYp7Ao
+Antarctica- https://earth.app.goo.gl/1NveLo  
+
+With this data we can vusually see the arctic show more dramatic signs of climate change by reviewing the Sea Ice Extent sq2/ Km for years. 
 
 
-## Questions we hope to answer with the data:
+###Dataset 1
+
+
+
 
 1. Predicting when the polar ice will be gone in the Artic.
 
