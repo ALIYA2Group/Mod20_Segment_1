@@ -36,11 +36,10 @@ Polar Sea ice, found only in the Arctic and Antarctic, which is comprised of fro
 1. [National Snow and Ice Data Center. NSIDC data on Google Earth. Accessed March 1, 2019](http://nsidc.org/data/google_earth)
 2. [Climate Data Store](https://cds.climate.copernicus.eu/user/119111)
 3. [Visualize Arctic and Antarctic Sea](https://livingatlas.arcgis.com/sea-ice/)
-4. [Arcgis](https://developers.arcgis.com/javascript/latest/showcase/arctic-antarctic-sea-ice/)
 
 ## Questions we hope to answer with the features of the dataset(s):
 
-###Dataset 1
+### Dataset 1
 
 ![D3a](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/Pictures/D3a.PNG)
 
@@ -51,13 +50,14 @@ With this data we can visually see the [Artic](https://earth.app.goo.gl/mYp7Ao) 
 [Antarctica](https://earth.app.goo.gl/1NveLo). 
 
 
-###Dataset 2
+### Dataset 2
 
-1. Predicting when the polar ice will be gone in the Artic.
 
-We want to explore the features of data within an 
+### Other Dataset
 
-2. Predicting when the polar ice will be gone in the Antarctic
+We want to explore the features the dataset and continue other data.
+
+1. Predicting when the polar ice will be gone in the Artic & Antarctic
 
 ## Description of the data exploration phase of the project 
 
