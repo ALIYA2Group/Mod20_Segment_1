@@ -128,7 +128,9 @@ We will present a provisional machine learning model that stands in for the fina
 * What is the model's accuracy? To be determined
 * How does this model work? The random forest classifier is a versatile classification tool that makes an aggregated prediction using a group of decision trees trained using the bootstrap method with extra randomness while growing trees by searching for the best features among a randomly selected feature subset. Each individual tree in the random forest spits out a class prediction and the class with the most votes becomes our model’s prediction.
 
-![image]()
+![image](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/Pictures/RFC.jpeg)
+
+We will use the historical sea ice data from NSIDC. along with several features to train and test the data and predict the accuracy. Depending on the accuracy, we will subsequently also use Keras and Tensor Flow to build a Deep Neural Network Model to improve accuracy.
 
 The model has been designed to:
 * pre-process the data
