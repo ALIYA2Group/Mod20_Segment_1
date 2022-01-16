@@ -56,7 +56,7 @@ With this data we can visually see the [Artic](https://earth.app.goo.gl/mYp7Ao) 
 ### Dataset 3
 ![D3.2a](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/Pictures/D3.2a.PNG)
 
-This Data set is in NET CDF (.nc) file and we are having trouble extration, reading due to size, and will reach out to the TAs to assit on Monday. January 17th, 2022. 
+This dataset is in NET CDF (.nc) file and we are having trouble extration, reading due to size, and will reach out to the TAs to assit on Monday. January 17th, 2022. 
 
 ### Other Dataset
 
