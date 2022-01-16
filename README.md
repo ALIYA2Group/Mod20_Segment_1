@@ -52,6 +52,7 @@ With this data we can visually see the [Artic](https://earth.app.goo.gl/mYp7Ao) 
 
 ### Dataset 2
 ![D2a](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/Pictures/D2a.PNG)
+![D3.2a](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/Pictures/D3.2a.PNG)
 
 ### Other Dataset
 
