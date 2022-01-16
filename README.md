@@ -1,10 +1,10 @@
 #  Mod20_Segment_1
+
 By the end of this module segment, we will have created the foundation for the final project. By defining roles between team members and establishing a communication structure. Additionally, Decide on a topic for the project—think of a question that can be answered using data. Create a repository for the project and invite the other team members to join. Source a dataset that will suit your needs (you can even use multiple datasets if applicable). Begin to clean, organize, and perform exploratory data analysis on your datasets so that they're ready for analysis. Include mockups of a machine learning model and a database.
 
 # Purpose 
 
 First Segment: Sketch It Out: Decide on your overall project, select your question, and build a simple model. You'll connect the model to a fabricated database, using comma-separated values (CSV) or JavaScript Object Notation (JSON) files, to prototype your idea.
-
 
 # Presentation 
 
@@ -61,10 +61,11 @@ We want to explore the features of data within an
 
 ## Description of the data exploration phase of the project 
 
-
-
+Data exploration phase consisted of identifying the factors/features that contribute to the sea ice extent (target) using sources such as global climate reporting agencies, NASA and Google Earth.
 
 ## Description of the analysis phase of the project 
+
+We are currently gathering the data and assessing its usefulness as well as identifying the best way to undertake the ETL process and build the database. We are currently finding it challenging to build the database due to the large size of the dataset and its format (NetCDF - .nc)
 
 ## Technologies, languages, tools, and algorithms used throughout the project 
 
