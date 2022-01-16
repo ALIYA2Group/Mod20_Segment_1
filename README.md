@@ -56,7 +56,7 @@ With this data we can visually see the [Artic](https://earth.app.goo.gl/mYp7Ao) 
 ### Dataset 3
 ![D3.2a](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/Pictures/D3.2a.PNG)
 
-This dataset is in NET CDF (.nc) file and we are having trouble extration, reading due to size, and will reach out to the TAs to assit on Monday. January 17th, 2022. 
+This dataset is in NET CDF (.nc) file and we are having trouble extrating and reading due to size, and we will reach out to the TAs to assit on Monday. January 17th, 2022. 
 
 ### Other Dataset
 
@@ -99,18 +99,18 @@ Present a provisional database that stands in for the final database and accompl
 
 # Technologies Used
 
-•	Which tools are the best fit for your project?  
+*	Which tools are the best fit for your project?  
 Jupyter Notebook, VScode IDE ,and Pandas to clean and drop fields.  
 Javascript, HTML, CSS for building the webpage.  
 
-•	What will be used for each section?  
+*	What will be used for each section?  
 Data gathering: Jupyter Notebook, Pandas  
 Cleaning and dropping fields: Jupyter Notebook, Pandas  
 ML section: Jupyter Notebook, Pandas, R, VScode IDE, Keras, Matplotlib, Scikit-Learn, TensorFlow  
 Data Storage: SQLite, PostgreSQL, Mongo  
 Interaction web page: VScode IDE, Javascript, HTML, CSS, Flask, D3.js library, Heruko 
 
-•	How will the dashboard be built?  
+*	How will the dashboard be built?  
 The dashboard will be built on the right side of the web page, we can use the panel to play the visualized animation graph or show the data on a specific time.  
 
 ## Data Cleaning and Analysis
@@ -160,8 +160,7 @@ We will be using the following libraries:
 
 # Dashboard
 
-For our Dashboard and Website we would like to connect to the Dataset via Live Data API, Extraction and build the graphs interactivly with the live data connection to Dataset #1.
-It will be hosted on Heroku.
+For our Dashboard and Website we would like to connect to the Dataset via Live Data API, Extraction and build the graphs interactivly with the live data connection to Dataset #1.It will be hosted on Heroku.
 
 ## Result of analysis 
 
