@@ -1,0 +1,71 @@
+@import '../../style/color.scss';
+
+.sea-ice-monthly-trend-chart-wrap {
+    .info-window {
+        padding: 0 1rem;
+        display: flex;
+        color: rgba(255,255,255,.75);
+
+        div {
+            flex-grow: 1;
+            flex-shrink: 0;
+        }
+
+        .sea-ice-ext-color {
+            color: $secIceExtColorAlpha5
+        }
+
+        .sea-ice-ext-color.is-bright {
+            color: $secIceExtColor
+        }
+
+        .median-sea-ice-ext-color {
+            color: $medianSecIceExtColor;
+            opacity: .9;
+        }
+    }
+
+
+}
+
+.sea-ice-monthly-trend-chart{
+
+    .monthly-trend-line {
+        fill: none;
+        stroke: $secIceExtColorAlpha15;
+        stroke-width: .8px;
+    }
+
+    .monthly-trend-line.is-active {
+        fill: none;
+        stroke: $secIceExtColor;
+        stroke-width: 2px;
+    }
+
+    .is-current-year{
+        fill: none;
+        stroke: rgba(255,255,255,.75);
+        stroke-width: 1.5px;
+    }
+
+    .median-monthly-trend-line{
+        fill: none;
+        stroke: $medianSecIceExtColor;
+        stroke-width: 1.5px;
+    }
+
+    .axis {
+        text {
+            fill: rgba(255,255,255,.5);
+        }
+
+        line {
+            stroke: rgba(255,255,255,.4);
+        }
+
+        path {
+            stroke: rgba(255,255,255,.4);
+        }
+        
+    }
+}

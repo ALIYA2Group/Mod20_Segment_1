@@ -1,0 +1,35 @@
+@import '../../style/fancy-scrollbar.scss';
+
+.side-panel{
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    bottom: 2rem;
+    width: 500px;
+    overflow-y: auto;
+}
+
+.mobile-view-bottom-panel{
+    position: absolute;
+    bottom: 5px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.is-mobile {
+    .esri-attribution{
+        display: none;
+    }
+
+    .floating-panel{
+        position: absolute;
+        top: 65px;
+        box-sizing: border-box;
+        width: 100%;
+        padding: 0 .25rem;
+        bottom: 115px;
+        overflow-y: auto;
+    }
+}
+
