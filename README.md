@@ -32,29 +32,32 @@ Polar Sea ice, found only in the Arctic and Antarctic, which is comprised of fro
 ![D11c](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/Pictures/D11c.PNG)
 
 ## Description of the source of datasets:
-
-![D3aa](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/Pictures/D3aa.PNG)
+![Daa](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/Pictures/Daa.PNG)
 1. [National Snow and Ice Data Center. NSIDC data on Google Earth. Accessed March 1, 2019](http://nsidc.org/data/google_earth)
 2. [Climate Data Store](https://cds.climate.copernicus.eu/user/119111)
 3. [Visualize Arctic and Antarctic Sea](https://livingatlas.arcgis.com/sea-ice/)
 4. [Arcgis](https://developers.arcgis.com/javascript/latest/showcase/arctic-antarctic-sea-ice/)
 
-## Questions we hope to answer with the:
+## Questions we hope to answer with the features of the dataset(s):
 
 ###Dataset 1
 
 ![D3a](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/Pictures/D3a.PNG)
 
-With this data we have extracted from the backend source that displays the Google Earth Map Video of the Polar Ice extent from the 1978 to Today. We extrated the data to ![seaice_extent_daily_v3.0.csv](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/seaice_extent_daily_v3.0.csv)  Using API Keys to and EarthData to  
+With this data we have extracted from the backend source that displays the Google Earth Map Video of the Polar Ice extent from the 1978 to Today. We extrated the data to .csv titled [seaice_extent_daily_v3.0.csv](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/seaice_extent_daily_v3.0.csv). And we imported the data using the following code [sea_ice_refactored](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/sea_ice_refactored.ipynb).
+![D3a1](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/Pictures/D3a1.PNG)
+
+With this data we can visually see the arctic show more dramatic signs of climate change by reviewing the Sea Ice Extent sq2/ Km for years. 
+
+For our Dashboard and Website we would like to connect to the Dataset via Live Data API, Extraction and build the graphs interactivly with the live dataconnection.
 
 Artic - https://earth.app.goo.gl/mYp7Ao
-Antarctica- https://earth.app.goo.gl/1NveLo  
+Antarctica- https://earth.app.goo.gl/1NveLo
 
-With this data we can vusually see the arctic show more dramatic signs of climate change by reviewing the Sea Ice Extent sq2/ Km for years. 
+We currently only have .csv  export of fix dataset display8ing graphs. 
 
 
-###Dataset 1
-
+###Dataset 2
 
 
 
@@ -66,25 +69,12 @@ We want to explore the features of data within an
 
 ## Description of the data exploration phase of the project 
 
-![Daa](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/Pictures/Daa.PNG)
 
-![Db](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/Pictures/Db.PNG)
 
-![Da](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/Pictures/Da.PNG)
 
 ## Description of the analysis phase of the project 
 
 ## Technologies, languages, tools, and algorithms used throughout the project 
-
-## Result of analysis 
-
-1. Cleaning Data : We Created an ERD with species extintiction level and determinded after ERD that we will need alternate Data Sources 
- 
-![DNU_ERD](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/Pictures/DNU_ERD.PNG)
-
-## Recommendation for future analysis 
-
-## Anything the team would have done differently 
 
 
 # Github
@@ -99,26 +89,6 @@ There is one branch for each team member as follows:
 ![D2b](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/Pictures/D2b.PNG)
 
 * Each team member has at least four commits for the duration of the first segment:
-
-# Machine Learning Model
-
-We will present a provisional machine learning model that stands in for the final machine learning model and accomplishes the following:
-
-* Takes in data from the provisional database
-* Outputs label for input data
-
-# Questions
-•	Which model did you choose and why?
-
-
-•	How are you training your model?
-
-
-•	What is the model's accuracy?
-
-
-•	How does this model work?
-
 
 # Database 
 
@@ -152,12 +122,18 @@ ex. Pandas will be used to clean the data and perform an exploratory analysis. F
 ## Database Storage
 ex. Mongo is the database we intend to use, and we will integrate Flask to display the data.
 
-## Machine Learning
+# Machine Learning Model
 
-A provisional machine learning model that stands in for the final machine learning model has been designed, with a starter code in place. It will be able to:
+We will present a provisional machine learning model that stands in for the final machine learning model and accomplishes the following:
 
 * Takes in data from the provisional database
 * Outputs label for input data
+
+#### Questions
+* Which model did you choose and why?
+* How are you training your model?
+* What is the model's accuracy?
+* How does this model work?
 
 The model has been designed to:
 * pre-process the data
@@ -178,6 +154,17 @@ We will be using the following libraries:
 ![image](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/Mock%20ML%20Model/images/3.PNG)
 
 # Dashboard
+There are no deliverables associated with the dashboard for this segment.
+
 ex. In addition to using a Flask template, we will also integrate D3.js for a fully functioning and interactive dashboard. It will be hosted on ___.
 
-There are no deliverables associated with the dashboard for this segment.
+## Result of analysis 
+
+1. While Cleaning Data : We Created an ERD with species extintiction level and determinded after ERD that we will need alternate Data Sources 
+ 
+![DNU_ERD](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/Pictures/DNU_ERD.PNG)
+
+## Recommendation for future analysis 
+
+## Anything the team would have done differently 
+
