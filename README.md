@@ -53,7 +53,6 @@ With this data we can visually see the [Artic](https://earth.app.goo.gl/mYp7Ao) 
 
 ###Dataset 2
 
-
 1. Predicting when the polar ice will be gone in the Artic.
 
 We want to explore the features of data within an 
@@ -68,7 +67,6 @@ We want to explore the features of data within an
 ## Description of the analysis phase of the project 
 
 ## Technologies, languages, tools, and algorithms used throughout the project 
-
 
 # Github
 
@@ -86,8 +84,8 @@ There is one branch for each team member as follows:
 # Database 
 
 Present a provisional database that stands in for the final database and accomplishes the following:
-* Sample data that mimics the expected final database structure or schema based on the following: 
 
+* Sample data that mimics the expected final database structure or schema based on the following: 
 
 * Draft machine learning model is connected to the provisional database
 
@@ -101,19 +99,19 @@ Javascript, HTML, CSS for building the webpage.
 Data gathering: Jupyter Notebook, Pandas  
 Cleaning and dropping fields: Jupyter Notebook, Pandas  
 ML section: Jupyter Notebook, Pandas, R, VScode IDE, Keras, Matplotlib, Scikit-Learn, TensorFlow  
-Data Storage: SQlite, PostgreSQL  
-Interaction web page: VScode IDE, Javascript, HTML, CSS, Flask, D3.js library  
-
-•	For example, data cleaning and data storage will be completed using two different tools.  
+Data Storage: SQLite, PostgreSQL, Mongo  
+Interaction web page: VScode IDE, Javascript, HTML, CSS, Flask, D3.js library, Heruko 
 
 •	How will the dashboard be built?  
-The daseboard will be built on the right side of the web paga, we can use the panel to play the visualized animation graph or show the data on a specific time.  
+The dashboard will be built on the right side of the web page, we can use the panel to play the visualized animation graph or show the data on a specific time.  
 
 ## Data Cleaning and Analysis
-ex. Pandas will be used to clean the data and perform an exploratory analysis. Further analysis will be completed using Python.
+Pandas will be used to clean the data and perform an exploratory analysis. Further analysis will be completed using Python.
 
 ## Database Storage
-ex. Mongo is the database we intend to use, and we will integrate Flask to display the data.
+Mongo and/or Postgres is the database we intend to use depending on the size of the data.
+
+![image](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/Pictures/webscraping.png)
 
 # Machine Learning Model
 
@@ -128,7 +126,9 @@ We will present a provisional machine learning model that stands in for the fina
 * What is the model's accuracy? To be determined
 * How does this model work? The random forest classifier is a versatile classification tool that makes an aggregated prediction using a group of decision trees trained using the bootstrap method with extra randomness while growing trees by searching for the best features among a randomly selected feature subset. Each individual tree in the random forest spits out a class prediction and the class with the most votes becomes our model’s prediction.
 
-![image]()
+![image](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/Pictures/RFC.jpeg)
+
+We will use the historical sea ice data from NSIDC. along with several features to train and test the data and predict the accuracy. Depending on the accuracy, we will subsequently also use Keras and Tensor Flow to build a Deep Neural Network Model to improve accuracy.
 
 The model has been designed to:
 * pre-process the data
