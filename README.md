@@ -1,42 +1,70 @@
-﻿#  Mod20_Segment_1
+#  Mod20_Segment_1
 By the end of this module segment, we will have created the foundation for the final project. By defining roles between team members and establishing a communication structure. Additionally, Decide on a topic for the project—think of a question that can be answered using data. Create a repository for the project and invite the other team members to join. Source a dataset that will suit your needs (you can even use multiple datasets if applicable). Begin to clean, organize, and perform exploratory data analysis on your datasets so that they're ready for analysis. Include mockups of a machine learning model and a database.
 
 # Purpose 
 
 First Segment: Sketch It Out: Decide on your overall project, select your question, and build a simple model. You'll connect the model to a fabricated database, using comma-separated values (CSV) or JavaScript Object Notation (JSON) files, to prototype your idea.
 
+
 # Presentation 
-1. Google Maps [Polar Sea Ice] (https://earth.app.goo.gl/mYp7Ao)
+
+![D11a](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/Pictures/D11a.PNG)
+
+1. Google Earth
+A Data frame was completed with data from the following sources; 
+[Artic] - (https://earth.app.goo.gl/mYp7Ao)
+[Antarctica] -(https://earth.app.goo.gl/1NveLo)
+
+To product the following:
+
+- seaice_extent_daily_v3.0.csv.
 
 ## Selected topic:
 
- Predicted when polar ice will be gone in the Artic and Antarctic's
+ Predicting when polar ice will be gone in the Artic and Antarctic using other scienctic features of global climate change by creating a database, ETL and Machine Learning Model.
+
+![D11b](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/Pictures/D11b.PNG)
 
 ## Reason we selected the topic:
 
+Polar Sea ice, found only in the Arctic and Antarctic, which is comprised of frozen ocean water. The amount of sea ice at each pole changes throughout the year, growing and shrinking. We will analyse data from sources from 1979 to 2018. And could expand this to 2022. Sea ice has an impact on the global climate from helping to regulate global temperature to affecting ocean currents and providing a habitat for wildlife. 
 
-Sea ice, which is comprised of frozen ocean water, is found only in the Arctic and Antarctic. The amount of sea ice at each pole changes throughout the year, growing in the winter months and shrinking during the summer months. This visualization on Google Earth shows the minimum sea ice measured for each year from 1979 to 2018. And could expand this to 2022. For the Antarctic, this measurement is taken in March after summer in the Southern Hemisphere. Sea ice has an impact on the global climate from helping to regulate global temperature to affecting ocean currents and providing a habitat for wildlife. We want to explore the catastrophes and aftermath that may occur after that date, and provide useful information related to the expected extinction of species to help navagate hard times in the future if we don't do something now.
-
+![D11c](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/Pictures/D11c.PNG)
 
 ## Description of the source of data:
 
-1.[Antarctic Sea Ice] (https://developers.arcgis.com/javascript/latest/showcase/arctic-antarctic-sea-ice/)
-2. 
 
+1. [National Snow and Ice Data Center. NSIDC data on Google Earth. Accessed March 1, 2019](http://nsidc.org/data/google_earth)
+2. [Climate Data Store](https://cds.climate.copernicus.eu/user/119111)
+3. [Climate Data Store](https://developers.arcgis.com/javascript/latest/showcase/arctic-antarctic-sea-ice/)
+4. [Visualize Arctic and Antarctic Sea](https://livingatlas.arcgis.com/sea-ice/)
 
 
 ## Questions we hope to answer with the data:
 
-1. Predicting when the polar ice will be gone in the Artic and Antarctic's
-2. Predicting when the polar ice will be gone in the Artic and Antarctic's
+1. Predicting when the polar ice will be gone in the Artic.
+
+We want to explore the features of data within an 
+
+2. Predicting when the polar ice will be gone in the Antarctic
 
 ## Description of the data exploration phase of the project 
+
+![Daa](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/Pictures/Daa.PNG)
+
+![Db](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/Pictures/Db.PNG)
+
+![Da](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/Pictures/Da.PNG)
 
 ## Description of the analysis phase of the project 
 
 ## Technologies, languages, tools, and algorithms used throughout the project 
 
 ## Result of analysis 
+
+1. Cleaning Data : We Created an ERD with species extintiction level and determinded after ERD that we will need alternate Data Sources 
+ 
+![DNU_ERD](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/Pictures/DNU_ERD.PNG)
 
 ## Recommendation for future analysis 
 
@@ -82,18 +110,25 @@ Present a provisional database that stands in for the final database and accompl
 * Sample data that mimics the expected final database structure or schema based on the following: 
 
 
-
 * Draft machine learning model is connected to the provisional database
 
 # Technologies Used
 
-•	Which tools are the best fit for your project? 
+•	Which tools are the best fit for your project?  
+Jupyter Notebook, VScode IDE ,and Pandas to clean and drop fields.  
+Javascript, HTML, CSS for building the webpage.  
 
-Pandas to clean and drop fields.
+•	What will be used for each section?  
+Data gathering: Jupyter Notebook, Pandas  
+Cleaning and dropping fields: Jupyter Notebook, Pandas  
+ML section: Jupyter Notebook, Pandas, R, VScode IDE, Keras, Matplotlib, Scikit-Learn, TensorFlow  
+Data Storage: SQlite, PostgreSQL  
+Interaction web page: VScode IDE, Javascript, HTML, CSS, Flask, D3.js library  
 
-•	What will be used for each section? 
-•	For example, data cleaning and data storage will be completed using two different tools. 
-•	How will the dashboard be built? 
+•	For example, data cleaning and data storage will be completed using two different tools.  
+
+•	How will the dashboard be built?  
+The daseboard will be built on the right side of the web paga, we can use the panel to play the visualized animation graph or show the data on a specific time.  
 
 ## Data Cleaning and Analysis
 ex. Pandas will be used to clean the data and perform an exploratory analysis. Further analysis will be completed using Python.
