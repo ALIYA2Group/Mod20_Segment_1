@@ -123,10 +123,12 @@ We will present a provisional machine learning model that stands in for the fina
 * Outputs label for input data
 
 #### Questions
-* Which model did you choose and why?
-* How are you training your model?
-* What is the model's accuracy?
-* How does this model work?
+* Which model did you choose and why? We will use a supervised machine learning model to split the historical data into training and testing data.
+* How are you training your model? We will use A RandomForest Classifier model to train the data
+* What is the model's accuracy? To be determined
+* How does this model work? The random forest classifier is a versatile classification tool that makes an aggregated prediction using a group of decision trees trained using the bootstrap method with extra randomness while growing trees by searching for the best features among a randomly selected feature subset. Each individual tree in the random forest spits out a class prediction and the class with the most votes becomes our model’s prediction.
+
+![image]()
 
 The model has been designed to:
 * pre-process the data
