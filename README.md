@@ -167,6 +167,6 @@ To use google COLAB instead of Jupyter notebook going forward,  because some of 
 
 ## Anything the team would have done differently 
 
-We picked a scienctific dataset, which requires more technical knowledge and adds more of a research componenet before we can actually use it. If we could do soemthing differently, we would choose a simpler topic when working with a new group for the first time.  
+We picked a scienctific dataset, which requires more technical knowledge and adds more of a research componenet before we can actually use it. If we could do soemthing differently, we would choose a simpler dataset when working with a new group for the first time.  
 
 
