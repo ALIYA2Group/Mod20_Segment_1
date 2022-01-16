@@ -94,9 +94,12 @@ There is one branch for each team member as follows:
 Present a provisional database that stands in for the final database and accomplishes the following:
 
 * Sample data that mimics the expected final database structure or schema based on the following: 
-We extrated the data to .csv titled [seaice_extent_daily_v3.0.csv](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/seaice_extent_daily_v3.0.csv). And we imported the data using the following code [sea_ice_refactored](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/sea_ice_refactored.ipynb).
 
-* Draft machine learning model is connected to the provisional database
+We extrated the data to .csv titled [seaice_extent_daily_v3.0.csv](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/seaice_extent_daily_v3.0.csv). And we imported the data using the following code [sea_ice_refactored](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/sea_ice_refactored.ipynb). 
+
+* Draft machine learning model is connected to the provisional database: 
+This database is expected to change once we are able to extract data from the larger datasets. 
+
 ![image](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/Mock%20ML%20Model/images/1.PNG)
 
 
