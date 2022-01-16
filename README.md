@@ -52,11 +52,17 @@ With this data we can visually see the [Artic](https://earth.app.goo.gl/mYp7Ao) 
 
 ### Dataset 2
 ![D2a](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/Pictures/D2a.PNG)
+
+### Dataset 3
 ![D3.2a](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/Pictures/D3.2a.PNG)
+
+This Data set is in NET CDF (.nc) file and we are having trouble extration, reading due to size, and will reach out to the TAs to assit on Monday. January 17th, 2022. 
 
 ### Other Dataset
 
 We want to explore the features the dataset and continue other data.
+
+The final question being: 
 
 1. Predicting when the polar ice will be gone in the Artic & Antarctic
 
