@@ -101,19 +101,17 @@ Javascript, HTML, CSS for building the webpage.
 Data gathering: Jupyter Notebook, Pandas  
 Cleaning and dropping fields: Jupyter Notebook, Pandas  
 ML section: Jupyter Notebook, Pandas, R, VScode IDE, Keras, Matplotlib, Scikit-Learn, TensorFlow  
-Data Storage: SQlite, PostgreSQL  
-Interaction web page: VScode IDE, Javascript, HTML, CSS, Flask, D3.js library  
-
-•	For example, data cleaning and data storage will be completed using two different tools.  
+Data Storage: SQLite, PostgreSQL, Mongo  
+Interaction web page: VScode IDE, Javascript, HTML, CSS, Flask, D3.js library, Heruko 
 
 •	How will the dashboard be built?  
-The daseboard will be built on the right side of the web paga, we can use the panel to play the visualized animation graph or show the data on a specific time.  
+The dashboard will be built on the right side of the web page, we can use the panel to play the visualized animation graph or show the data on a specific time.  
 
 ## Data Cleaning and Analysis
-ex. Pandas will be used to clean the data and perform an exploratory analysis. Further analysis will be completed using Python.
+Pandas will be used to clean the data and perform an exploratory analysis. Further analysis will be completed using Python.
 
 ## Database Storage
-ex. Mongo is the database we intend to use, and we will integrate Flask to display the data.
+Mongo and/or Postgres is the database we intend to use depending on the size of the data.
 
 # Machine Learning Model
 
