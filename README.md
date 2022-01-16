@@ -1,4 +1,4 @@
-﻿#  Mod20_Segment_1
+#  Mod20_Segment_1
 By the end of this module segment, we will have created the foundation for the final project. By defining roles between team members and establishing a communication structure. Additionally, Decide on a topic for the project—think of a question that can be answered using data. Create a repository for the project and invite the other team members to join. Source a dataset that will suit your needs (you can even use multiple datasets if applicable). Begin to clean, organize, and perform exploratory data analysis on your datasets so that they're ready for analysis. Include mockups of a machine learning model and a database.
 
 # Purpose 
@@ -108,7 +108,6 @@ We will present a provisional machine learning model that stands in for the fina
 
 Present a provisional database that stands in for the final database and accomplishes the following:
 * Sample data that mimics the expected final database structure or schema based on the following: 
-
 
 
 * Draft machine learning model is connected to the provisional database
