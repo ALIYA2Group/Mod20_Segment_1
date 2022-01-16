@@ -39,7 +39,7 @@ Polar Sea ice, found only in the Arctic and Antarctic, which is comprised of fro
 
 ## Questions we hope to answer with the features of the dataset(s):
 
-###Dataset 1
+### Dataset 1
 
 ![D3a](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/Pictures/D3a.PNG)
 
