@@ -106,7 +106,9 @@ Interaction web page: VScode IDE, Javascript, HTML, CSS, Flask, D3.js library, H
 The dashboard will be built on the right side of the web page, we can use the panel to play the visualized animation graph or show the data on a specific time.  
 
 ## Data Cleaning and Analysis
-Pandas will be used to clean the data and perform an exploratory analysis. Further analysis will be completed using Python.
+Pandas will be used to clean the data and perform an exploratory analysis. Further analysis will be completed using Python.  
+![image](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/Pictures/etl1.png)  
+![image](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/Pictures/etl2.png)  
 
 ## Database Storage
 Mongo and/or Postgres is the database we intend to use depending on the size of the data.
