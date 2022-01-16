@@ -53,7 +53,6 @@ With this data we can visually see the [Artic](https://earth.app.goo.gl/mYp7Ao) 
 
 ###Dataset 2
 
-
 1. Predicting when the polar ice will be gone in the Artic.
 
 We want to explore the features of data within an 
@@ -68,7 +67,6 @@ We want to explore the features of data within an
 ## Description of the analysis phase of the project 
 
 ## Technologies, languages, tools, and algorithms used throughout the project 
-
 
 # Github
 
@@ -86,8 +84,8 @@ There is one branch for each team member as follows:
 # Database 
 
 Present a provisional database that stands in for the final database and accomplishes the following:
-* Sample data that mimics the expected final database structure or schema based on the following: 
 
+* Sample data that mimics the expected final database structure or schema based on the following: 
 
 * Draft machine learning model is connected to the provisional database
 
@@ -112,6 +110,8 @@ Pandas will be used to clean the data and perform an exploratory analysis. Furth
 
 ## Database Storage
 Mongo and/or Postgres is the database we intend to use depending on the size of the data.
+
+![image](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/Pictures/webscraping.png)
 
 # Machine Learning Model
 
