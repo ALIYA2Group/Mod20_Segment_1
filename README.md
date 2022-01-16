@@ -47,18 +47,11 @@ Polar Sea ice, found only in the Arctic and Antarctic, which is comprised of fro
 With this data we have extracted from the backend source that displays the Google Earth Map Video of the Polar Ice extent from the 1978 to Today. We extrated the data to .csv titled [seaice_extent_daily_v3.0.csv](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/seaice_extent_daily_v3.0.csv). And we imported the data using the following code [sea_ice_refactored](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/sea_ice_refactored.ipynb).
 ![D3a1](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/Pictures/D3a1.PNG)
 
-With this data we can visually see the arctic show more dramatic signs of climate change by reviewing the Sea Ice Extent sq2/ Km for years. 
-
-For our Dashboard and Website we would like to connect to the Dataset via Live Data API, Extraction and build the graphs interactivly with the live dataconnection.
-
-Artic - https://earth.app.goo.gl/mYp7Ao
-Antarctica- https://earth.app.goo.gl/1NveLo
-
-We currently only have .csv  export of fix dataset display8ing graphs. 
+With this data we can visually see the [Artic](https://earth.app.goo.gl/mYp7Ao) show more dramatic signs of climate change by reviewing the Sea Ice Extent sq2/ Km for years compared to 
+[Antarctica](https://earth.app.goo.gl/1NveLo). 
 
 
 ###Dataset 2
-
 
 
 1. Predicting when the polar ice will be gone in the Artic.
@@ -154,9 +147,9 @@ We will be using the following libraries:
 ![image](https://github.com/ALIYA2Group/Mod20_Segment_1/blob/main/Mock%20ML%20Model/images/3.PNG)
 
 # Dashboard
-There are no deliverables associated with the dashboard for this segment.
 
-ex. In addition to using a Flask template, we will also integrate D3.js for a fully functioning and interactive dashboard. It will be hosted on ___.
+For our Dashboard and Website we would like to connect to the Dataset via Live Data API, Extraction and build the graphs interactivly with the live data connection to Dataset #1.
+It will be hosted on Heroku.
 
 ## Result of analysis 
 
